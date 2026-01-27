@@ -39,6 +39,8 @@
 *.exe
 *.out
 *.app
+*.pdb
+*.ilk
 
 # Folders
 .vscode/
