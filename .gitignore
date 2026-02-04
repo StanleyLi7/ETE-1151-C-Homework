@@ -8,7 +8,9 @@
 *.d     
 *ilk
 *pdb
-                                            
+*ilk
+*ogj
+
 # Compiled Object files
 *.slo
 *.lo
