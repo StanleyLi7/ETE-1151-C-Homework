@@ -7,4 +7,4 @@ int main() {
     std::cin >> userInput;
     std::cout << "I've heard that " << userInput << " is a great place to live! I'd love to visit!" << std::endl;
     return 0;
-}
+}   
