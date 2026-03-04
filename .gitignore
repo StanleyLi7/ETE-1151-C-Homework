@@ -10,7 +10,10 @@
 *pdb
 *ilk
 *ogj
-
+build/
+*.exe
+*.pdb
+*.obj
 # Compiled Object files
 *.slo
 *.lo
